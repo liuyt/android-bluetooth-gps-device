@@ -1,0 +1,1 @@
+We provide the general interface and implement a copy that works for Garmin devices.  You supply the rest.
